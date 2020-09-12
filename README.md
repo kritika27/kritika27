@@ -1,7 +1,5 @@
 # Kritika Srivastava
 
-[![HitCount](http://hits.dwyl.com/kritika27/kritika27.svg)](http://hits.dwyl.com/kritika27/kritika27)
-
 ## Hi, I'm React/Frontend Developer 👩‍💻
 
 🔭 I'm currently working on building interesting Projects on ReactJS.
@@ -11,7 +9,6 @@
 👯 I like Meetups,Podcasts,Blogs and anything that makes me better in Frontend Development.
 
 ⚡ Fun fact: I like to do Sketching when not Coding.
-
 
 ### Available on:
 
@@ -38,8 +35,6 @@
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -56,5 +51,7 @@
 
 <br />
 
-[twitter]: https://twitter.com/kritikas27
+![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=kritika27&count_private=true&theme=default&show_icons=true)
+
+[twitter]: https://twitter.com/kritikasri27
 [linkedin]: https://www.linkedin.com/in/kritika-srivastava
