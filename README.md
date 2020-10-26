@@ -25,8 +25,6 @@
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -45,9 +43,10 @@
 
 ---
 
-### Blog✏️:
+### Tech Blog✏️:
 
-- [DEV](https://dev.to/kritika27)
+- [DEV](https://dev.to/kritika27): About ReactJS/Frontend Development.
+- [Blogspot](https://gdgallahabad.blogspot.com/): Written in the past as a Blogger and member of GDG Allahabad while pursuing Computer Science Engineering in college.
 
 <br />
 
