@@ -1,14 +1,14 @@
 # Kritika Srivastava
 
-## Hi, I'm React/Frontend Developer 👩‍💻
+## Hi, I'm ReactJS/Frontend Developer 👩‍💻
 
-🔭 I'm currently working on building interesting Projects on ReactJS.
+🔭 I'm currently working on building Projects in ReactJS.
 
-🌱 I'm currently learning Frontend stuffs.
+🌱 I'm currently learning and exploring various parts of Frontend Development.
 
-👯 I like Meetups,Podcasts,Blogs and anything that makes me better in Frontend Development.
+👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences.I like to indulge in anything that makes me better in Frontend Development like Meetups,Podcasts,Tech Blogs.
 
-⚡ Fun fact: I like to do Sketching when not Coding.
+⚡ Fun fact: I like to do Sketching,writing Personal Blogs on Wordpress when not Coding.
 
 ### Available on:
 
