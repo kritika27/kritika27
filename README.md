@@ -45,10 +45,15 @@
 
 ### Tech Blog✏️:
 
-- [DEV](https://dev.to/kritika27): About ReactJS/Frontend Development.
+- [Dev](https://dev.to/kritika27): Write-ups on ReactJS/Frontend Development.
 - [Blogspot](https://gdgallahabad.blogspot.com/): Written in the past as a Blogger and member of GDG Allahabad while pursuing Computer Science Engineering in college.
+  <br />
 
-<br />
+### Miscellaneous:
+
+[KidsCodeCamp](https://kidscodecamp690354437.wordpress.com/): A free initiative for teaching coding to children.
+
+<br/>
 
 ![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=kritika27&count_private=true&theme=default&show_icons=true)
 
