@@ -1,6 +1,6 @@
 # Kritika Srivastava
 
-## Hi, I'm ReactJS/Frontend Developer 👩‍💻
+## Hi, I am ReactJS/Frontend Developer 👩‍💻
 
 🔭 I'm currently working on building Projects in ReactJS.
 
@@ -8,7 +8,7 @@
 
 👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences.I like to indulge in anything that makes me better in Frontend Development like Meetups,Podcasts,Tech Blogs.
 
-⚡ Fun fact: I like to do Sketching,writing Personal Blogs on Wordpress when not Coding.
+⚡ Fun fact: I like to do Sketching,write Personal Blogs on Wordpress when not Coding.
 
 ### Available on:
 
@@ -51,7 +51,8 @@
 
 ### Miscellaneous:
 
-[KidsCodeCamp](https://kidscodecamp690354437.wordpress.com/): A free initiative for teaching coding to children.
+- [Subscribe to React Newsletter](https://mailchi.mp/6ef47ffb6f9b/reactnewsletter): Get Four React Beginner Projects with detailed explanation straight in your inbox. 2 Projects per week.
+- [KidsCodeCamp](https://kidscodecamp690354437.wordpress.com/): A free initiative for teaching coding to children.
 
 <br/>
 
