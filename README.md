@@ -4,11 +4,11 @@
 
 🔭 I'm currently working on building Projects in ReactJS.
 
-🌱 I'm currently learning and exploring various parts of Frontend Development.
+🌱 I'm currently learning and exploring various parts of Frontend Development especially MERN stack.
 
-👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences.I like to indulge in anything that makes me better in Frontend Development like Meetups,Podcasts,Tech Blogs.
+👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers. I like to speak to people with Geeky mindset and discuss about what happens in their Tech world.
 
-⚡ Fun fact: I like to do Sketching,write Personal Blogs on Wordpress when not Coding.
+⚡ Fun fact: I like to do Sketching,write Personal Blogs on Wordpress or teach coding to school kids in my leisure hour. Also a member of GDG Bangalore.
 
 ### Available on:
 
