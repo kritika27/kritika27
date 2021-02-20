@@ -2,7 +2,7 @@
 
 ## Hi, I am ReactJS/Frontend Developer 👩‍💻
 
-🔭 I'm currently working on building Projects in ReactJS.
+🔭 I'm currently working on building Projects in ReactJS and actively looking for an entry/mid level React Frontend Developer job in Berlin,Germany.
 
 🌱 I'm currently learning and exploring various parts of Frontend Development especially MERN stack.
 
@@ -14,6 +14,8 @@
 
 [<img align="left" alt="Kritika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kritika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kritika | Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
+[<img align="left" alt="Kritika | Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev]
 
 <br />
 
@@ -25,11 +27,17 @@
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
@@ -49,7 +57,7 @@
 - [Blogspot](https://gdgallahabad.blogspot.com/): Written in the past as a Blogger and member of GDG Allahabad while pursuing Computer Science Engineering in college.
   <br />
 
-### Miscellaneous:
+### Extras:
 
 - [Subscribe to React Newsletter](https://mailchi.mp/6ef47ffb6f9b/reactnewsletter): Get Four React Beginner Projects with detailed explanation straight in your inbox. 2 Projects per week.
 - [KidsCodeCamp](https://kidscodecamp690354437.wordpress.com/): A free initiative for teaching coding to children.
@@ -60,3 +68,5 @@
 
 [twitter]: https://twitter.com/kritikasri27
 [linkedin]: https://www.linkedin.com/in/kritika-srivastava
+[dev]: https://dev.to/kritika27
+[github]: https://github.com/kritika27
