@@ -4,7 +4,7 @@
 
 🔭 I'm currently working on building Projects in ReactJS and actively looking for an entry/mid level React Frontend Developer job in Berlin,Germany.
 
-🌱 I'm currently learning and exploring various parts of Frontend Development especially MERN stack.
+🌱 I'm working as Freelance Technical Content Writer for Workshub.Currently I am learning and exploring various parts of Frontend Development especially MERN stack.
 
 👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers. I like to speak to people with Geeky mindset and discuss about what happens in their Tech world.
 
