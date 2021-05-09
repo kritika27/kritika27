@@ -62,11 +62,16 @@
 ### Extras:
 
 - [Subscribe to React Newsletter](https://mailchi.mp/6ef47ffb6f9b/reactnewsletter): Get Four React Beginner Projects with detailed explanation straight in your inbox. 2 Projects per week.
-- [KidsCodeCamp](https://kidscodecamp690354437.wordpress.com/): A free initiative for teaching coding to children.
 
 <br/>
 
 ![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=kritika27&count_private=true&theme=dracula&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika27)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kritika27)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kritika27)
 
 [twitter]: https://twitter.com/kritikasri27
 [linkedin]: https://www.linkedin.com/in/kritika-srivastava
