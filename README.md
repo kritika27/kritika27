@@ -2,13 +2,15 @@
 
 ## Hi, I am ReactJS/Frontend Developer 👩‍💻
 
-🔭 I'm currently working on building Projects in ReactJS and actively looking for an entry/mid level React Frontend Developer job in Berlin,Germany.
+🔭 I'm currently working on building Projects in ReactJS and actively looking for an entry/mid level React Frontend Developer job in Germany preferably Berlin.
 
-🌱 I'm working as Freelance Technical Content Writer for Workshub.Currently I am learning and exploring various parts of Frontend Development especially MERN stack.
+🌱 I can build websites and web applications in React to solve real Business problems.Apart from React I build projects in MERN stack,React Native.
 
-👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers. I like to speak to people with Geeky mindset and discuss about what happens in their Tech world.
+👩‍🍳 Being a person with multiple hobbies,creativity flows in my veins.As a developer I like to mix different technologies and create different recipes.These days I am mixing TypeScript with my React projects.
 
-⚡ Fun fact: I like to do Sketching,write Personal Blogs on Wordpress or teach coding to school kids in my leisure hour. Also a member of GDG Bangalore.
+👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of coffee virtually.
+
+⚡ Fun fact: I like to do Sketching,write Personal Blogs on Wordpress or teach coding to school kids in my leisure hour. Also a member of GDG Bangalore and active member of Dev community.
 
 ### Available on:
 
