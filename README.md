@@ -16,8 +16,6 @@
 
 ### Available on:
 
-[![Kritika Srivastava's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/kritika27)
-
 <a href="https://dev.to/kritika27"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/kritikasri27"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kritika-srivastava/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
