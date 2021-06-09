@@ -2,9 +2,9 @@
 
 ## Hi, I am ReactJS/Frontend Developer 👩‍💻
 
-🔭 I'm currently working on building Projects in ReactJS and actively looking for an entry/mid level React Frontend Developer job in Germany preferably Berlin.
+🔭 I'm currently building Projects in ReactJS and actively looking for an entry/mid level React Frontend Developer job in Germany preferably Berlin.
 
-🌱 I can build websites and web applications in React to solve real Business problems.Apart from React I build projects in MERN stack,React Native.
+🌱 I can build websites and web applications in React to solve real Business problems.Apart from React I am also building projects in JavaScript,MERN stack,PERN stack,React Native.
 
 🚀 The skills I am currently learning are TypeScript,React Native.Other skills on my bucket list for next few months are GraphQL,NextJS,Java,Figma,Photoshop and Scuba Diving.
 
