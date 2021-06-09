@@ -6,13 +6,17 @@
 
 🌱 I can build websites and web applications in React to solve real Business problems.Apart from React I build projects in MERN stack,React Native.
 
+🚀 The skills I am currently learning are TypeScript,React Native.Other skills on my bucket list for next few months are GraphQL,NextJS,Java,Figma,Photoshop and Scuba Diving.
+
 👩‍🍳 Being a person with multiple hobbies,creativity flows in my veins.As a developer I like to mix different technologies and create different recipes.These days I am mixing TypeScript with my React projects.
 
-👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of coffee virtually.
+👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
 
 ⚡ Fun fact: I like to do Sketching,write Personal Blogs on Wordpress or teach coding to school kids in my leisure hour. Also a member of GDG Bangalore and active member of Dev community.
 
 ### Available on:
+
+[![Kritika Srivastava's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/kritika27)
 
 <a href="https://dev.to/kritika27"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/kritikasri27"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
