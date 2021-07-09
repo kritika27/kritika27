@@ -56,13 +56,8 @@
 
 - [Dev](https://dev.to/kritika27): Write-ups on ReactJS/Frontend Development.
 - [Blogspot](https://gdgallahabad.blogspot.com/): Written in the past as a Blogger and member of GDG Allahabad while pursuing Computer Science Engineering in college.
-  <br />
-
-### Extras:
-
-- [Subscribe to React Newsletter](https://mailchi.mp/6ef47ffb6f9b/reactnewsletter): Get Four React Beginner Projects with detailed explanation straight in your inbox. 2 Projects per week.
-
-<br/>
+  <br/>
+  <br/>
 
 ![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=kritika27&count_private=true&theme=dracula&show_icons=true)
 
