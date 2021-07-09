@@ -4,11 +4,9 @@
 
 🔭 I'm currently building Projects in ReactJS and actively looking for an entry/mid level React Frontend Developer job in Germany preferably Berlin.
 
-🌱 I can build websites and web applications in React to solve real Business problems.Apart from React I am also building projects in JavaScript,MERN stack,PERN stack,React Native.
+🌱 I can build websites and web applications in React to solve real Business problems.Apart from React I am also building projects in JavaScript,MERN stack,TypeScript,React Native,Vue.Other skills on my bucket list for next few months are GraphQL,NextJS,Java,Figma,Photoshop and Scuba Diving.
 
-🚀 The skills I am currently learning are TypeScript,React Native.Other skills on my bucket list for next few months are GraphQL,NextJS,Java,Figma,Photoshop and Scuba Diving.
-
-👩‍🍳 Being a person with multiple hobbies,creativity flows in my veins.As a developer I like to mix different technologies and create different recipes.These days I am mixing TypeScript with my React projects.
+👩‍🍳 Being a person with multiple hobbies,creativity flows in my veins.As a developer I like to mix different technologies and create different recipes.
 
 👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
 
@@ -18,7 +16,8 @@
 
 <a href="https://dev.to/kritika27"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/kritikasri27"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kritika-srivastava/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/kritika-srivastava/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/kritikathedev/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.png?raw=true"></a>
 <br />
 
 ---
