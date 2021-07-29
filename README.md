@@ -2,15 +2,15 @@
 
 ## Hi, I am ReactJS/Frontend Developer 👩‍💻
 
-🔭 I'm currently building Projects in ReactJS and actively looking for an entry/mid level React Frontend Developer job in Germany preferably Berlin.
+🔭 I'm currently building projects in ReactJS and actively looking for an entry/mid level React Frontend Developer job in Germany preferably Berlin.
 
-🌱 I can build websites and web applications in React to solve real Business problems.Apart from React I am also building projects in JavaScript,MERN stack,TypeScript,React Native,Vue.Other skills on my bucket list for next few months are GraphQL,NextJS,Java,Figma,Photoshop and Scuba Diving.
+🌱 I can build websites and web applications in React to solve real business problems.Apart from React I am also building projects in JavaScript,MERN stack,TypeScript,React Native,Vue.Other skills on my bucket list for next few months are GraphQL,NextJS,Java,Figma,Photoshop and Scuba Diving.
 
 👩‍🍳 Being a person with multiple hobbies,creativity flows in my veins.As a developer I like to mix different technologies and create different recipes.
 
-👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
+👯 I like to write tech blogs,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new technologies and pacify my curiosity about computers.If you want to discuss something over programming, let's grab a cup of coffee together virtually.
 
-⚡ Fun fact: I like to do Sketching,write Personal Blogs on Wordpress or teach coding to school kids in my leisure hour. Also a member of GDG Bangalore and active member of Dev community.
+⚡ Fun fact: I like to do sketching,write personal blogs on Wordpress or teach coding to school kids in my leisure hour. Also a member of GDG Bangalore and active member of Dev community.
 
 ### Available on:
 
