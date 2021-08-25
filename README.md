@@ -8,7 +8,7 @@
 
 👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
 
-⚡ Fun fact: I like to do Sketching,write Personal Blogs on Wordpress or teach coding to school kids in my leisure hour. Also a member of GDG Bangalore and active member of Dev community.
+⚡ Fun fact: I like to do Sketching,write Personal Blogs on Wordpressr.Also an active member of Dev community.
 
 ### Available on:
 
