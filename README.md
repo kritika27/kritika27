@@ -2,13 +2,13 @@
 
 ## Hi, I am ReactJS/Frontend Developer 👩‍💻
 
-🔭 I'm working as a Freelance React Developer at iMocha and actively looking for an entry/mid level React Frontend Developer job in Germany preferably Berlin.
+🔭 I'm working as a full-time React Developer at GlobalLogic.
 
-🌱 I can build websites and web applications in JavaScript,React to solve real Business problems.Apart from React I am also building projects in MERN stack,and learning TypeScript.Other skills on my bucket list for coming months are React Native,GraphQL,NextJS,Java,Figma,Photoshop and Scuba Diving.
+🌱 I can build websites and web applications in JavaScript,React to solve real Business problems.Apart from React I am also building projects in MERN stack,and learning TypeScript,NextJS.Other skills on my bucket list for coming months are React Native,GraphQL,Figma,Photoshop and Scuba Diving.
 
 👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
 
-⚡ Fun fact: I like to do Sketching,write Personal Blogs on Wordpress in my leisure hour.Also an active member of Dev community.
+⚡ Fun fact: I like to do Sketching, photography in my leisure hour.
 
 ### Available on:
 
