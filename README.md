@@ -4,11 +4,11 @@
 
 🔭 I'm working as a full-time React Developer at GlobalLogic.
 
-🌱 I can build websites and web applications in JavaScript,React to solve real Business problems.Apart from React I am also building projects in MERN stack,and learning TypeScript,NextJS.Other skills on my bucket list for coming months are React Native,GraphQL,Figma,Photoshop and Scuba Diving.
+🌱 I like to build websites and web applications in JavaScript,React to solve real Business problems.Apart from React I am also building projects in MERN stack,and learning TypeScript,NextJS.Other skills on my bucket list for coming months are React Native,GraphQL,Figma,Photoshop and Scuba Diving.
 
-👯 I like to write Tech Blogs,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
+👯 I like to write Tech Blog on DEV,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
 
-⚡ Fun fact: I like to do Sketching, photography in my leisure hour.
+⚡ Fun fact: I like to do Sketching, photography and try new hobbies in my leisure hour.
 
 ### Available on:
 
@@ -53,6 +53,12 @@
 ### Tech Blog✏️:
 
 - [Dev](https://dev.to/kritika27): Write-ups on ReactJS/Frontend Development.
+
+  ## My Top Blog Posts:
+
+  - [How to think while building applications.](https://dev.to/kritika27/how-to-think-while-building-applications-13eh): This article was featured in the weekly "Must-Reads" of DEV and I was awarded as weekly top React author.
+  - [React code structuring and best practices.](https://dev.to/kritika27/react-code-structuring-and-best-practices-3k7p): This article was featured in the React Trends.
+
 - [Blogspot](https://gdgallahabad.blogspot.com/): Written in the past as a Blogger and member of GDG Allahabad while pursuing Computer Science Engineering in college.
   <br/>
   <br/>
