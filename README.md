@@ -1,14 +1,14 @@
-# Kritika Srivastava
+Kritika Srivastava
 
 ## Hi, I am ReactJS/Frontend Developer 👩‍💻
 
-🔭 I'm working as a full-time React Developer at GlobalLogic.
+🔭 I'm working as a full-time React Developer at GlobalLogic. With expertise in React, I am working in MERN stack & TypeScript.
 
-🌱 I like to build websites and web applications in JavaScript,React to solve real Business problems.Apart from React I am also building projects in MERN stack,and learning TypeScript,NextJS.Other skills on my bucket list for coming months are React Native,GraphQL,Figma,Photoshop and Scuba Diving.
+🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are NextJS, GraphQL, Figma, Photoshop, Scuba Diving and driving a car.🙂
 
 👯 I like to write Tech Blog on DEV,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
 
-⚡ Fun fact: I like to do Sketching, photography and try new hobbies in my leisure hour.
+⚡ Fun fact: I like to do sketching, writing poems and try new hobbies in my leisure hour. These days I am into cooking & photography as part of my new hobbies.
 
 ### Available on:
 
@@ -56,7 +56,7 @@
 
   ## My Top Blog Posts:
 
-  - [How to think while building applications.](https://dev.to/kritika27/how-to-think-while-building-applications-13eh): This article was featured in the weekly "Must-Reads" of DEV and I was awarded as weekly top React author.
+  - [How to think while building web applications.](https://dev.to/kritika27/how-to-think-while-building-applications-13eh): This article was featured in the weekly "Must-Reads" of DEV and I was being awarded as weekly top React author.
   - [React code structuring and best practices.](https://dev.to/kritika27/react-code-structuring-and-best-practices-3k7p): This article was featured in the React Trends.
 
 - [Blogspot](https://gdgallahabad.blogspot.com/): Written in the past as a Blogger and member of GDG Allahabad while pursuing Computer Science Engineering in college.
