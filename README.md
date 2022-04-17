@@ -8,7 +8,7 @@ Kritika Srivastava
 
 👯 I like to write Tech Blog on DEV,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
 
-⚡ Fun fact: I like to do sketching, writing poems and try new hobbies in my leisure hour. These days I am into cooking & photography as part of my new hobbies.
+⚡ Fun fact: I like to do sketching, write poems and try new hobbies in my leisure hour. These days I am into cooking & photography as part of my new hobbies.
 
 ### Available on:
 
