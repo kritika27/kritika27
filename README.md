@@ -1,10 +1,10 @@
 Kritika Srivastava
 
-## Hi, I am ReactJS/Frontend Developer 👩‍💻
+## Hi, I am a ReactJS/Frontend Developer 👩‍💻
 
-🔭 I'm working as a full-time React Developer at GlobalLogic. With expertise in React, I am working in MERN stack & TypeScript.
+🔭 Currently I am actively looking for a full-time React Developer job in Berlin,Germany. I'm working as a full-time React Developer.With expertise in React, I am working in MERN stack & TypeScript.
 
-🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are NextJS, GraphQL, Figma, Photoshop, Scuba Diving and driving a car.🙂
+🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are Figma, Photoshop, Scuba Diving and driving a car.🙂
 
 👯 I like to write Tech Blog on DEV,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together virtually.
 
