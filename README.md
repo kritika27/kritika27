@@ -2,7 +2,7 @@ Kritika Srivastava
 
 ## Hi, I am a ReactJS/Frontend Developer 👩‍💻
 
-🔭 Currently I am actively looking for a full-time React Developer job in Berlin,Germany. I'm working as a full-time React Developer.With expertise in React, I am working in MERN stack & TypeScript.
+🔭 I am open for a full-time React Developer job. Currently,I am working as a full-time React Developer in GlobalLogic.With expertise in React, I am working in MERN stack & TypeScript.
 
 🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are Figma, Photoshop, Scuba Diving and driving a car.🙂
 
