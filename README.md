@@ -64,10 +64,15 @@ Kritika Srivastava
   <br/>
   <br/>
 
-## Events/Conference Updates:
+ ---
+
+### Events/Conference Updates:
 
 - Active member of React Bangalore.
 - Recently got an opportunity to be a part of in person React India International Conference in Goa, India.
+  <br/>
+  <br/>
+---
 
 ![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=kritika27&count_private=true&theme=dracula&show_icons=true)
 
