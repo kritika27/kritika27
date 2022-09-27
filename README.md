@@ -53,6 +53,7 @@ Kritika Srivastava
 ### Tech Blog✏️:
 
 - [Dev](https://dev.to/kritika27): Write-ups on ReactJS/Frontend Development.
+- [Medium](https://medium.com/@kritika27): Extending my love for writing on     Medium too.
 
   ## My Top Blog Posts:
 
@@ -62,6 +63,11 @@ Kritika Srivastava
 - [Blogspot](https://gdgallahabad.blogspot.com/): Written in the past as a Blogger and member of GDG Allahabad while pursuing Computer Science Engineering in college.
   <br/>
   <br/>
+
+## Events/Conference Updates:
+
+- Active member of React Bangalore.
+- Recently got an opportunity to be a part of in person React India International Conference in Goa, India.
 
 ![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=kritika27&count_private=true&theme=dracula&show_icons=true)
 
