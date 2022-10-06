@@ -14,8 +14,6 @@ Kritika Srivastava
 
 <a href="https://dev.to/kritika27"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/kritikasri27"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kritika-srivastava/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/kritikathedev/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.png?raw=true"></a>
 <br />
 
 ---
@@ -68,8 +66,8 @@ Kritika Srivastava
 
 ### Events/Conference Updates:
 
-- Active member of React Bangalore.
-- Recently got an opportunity to be a part of in person React India International Conference in Goa, India.
+- Active member of React Bangalore Meetup.
+- Recently got an opportunity to be a part of an in-person React India International Conference in Goa, India.
   <br/>
   <br/>
 ---
