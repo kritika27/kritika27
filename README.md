@@ -60,7 +60,6 @@ Kritika Srivastava
 
 - [Blogspot](https://gdgallahabad.blogspot.com/): Written in the past as a Blogger and member of GDG Allahabad while pursuing Computer Science Engineering in college.
   <br/>
-  <br/>
 
 ### Talks:
 
