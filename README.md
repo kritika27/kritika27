@@ -62,15 +62,18 @@ Kritika Srivastava
   <br/>
   <br/>
 
- ---
+### Talks:
+
+- My upcoming Talk in React Bangalore Meetup: How to Think while creating Apps in React-TypeScript.
+  <br/>
 
 ### Events/Conference Updates:
 
 - Active member of React Bangalore Meetup.
-- Recently got an opportunity to be a part of an in-person React India International Conference in Goa, India.
+- Recently got an opportunity to be a part of React India International Conference in Goa, India.
   <br/>
   <br/>
----
+
 
 ![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=kritika27&count_private=true&theme=dracula&show_icons=true)
 
