@@ -63,13 +63,13 @@ Kritika Srivastava
 
 ### Talks:
 
-- My upcoming Talk in React Bangalore Meetup: How to Think while creating Apps in React-TypeScript.
+- Gave a Talk in React Bangalore Meetup on 15th October 2022: How to Think while creating Apps in React-TypeScript.
   <br/>
 
 ### Events/Conference Updates:
 
 - Active member of React Bangalore Meetup.
-- Recently got an opportunity to be a part of React India International Conference in Goa, India.
+- Recently got an opportunity to be a part of React India Goa, India.
   <br/>
   <br/>
 
