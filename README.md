@@ -10,7 +10,7 @@ Kritika Srivastava
 
 ⚡ Fun fact: I like to sketch, write poems and try new hobbies in my leisure hour.I am also pursuing German language Certification from Goethe-Institut / Max Mueller Bhavan Bangalore.
 
-👋 Available For: Full-time Frontend/React Developer role, Anchoring in Tech Conferences and Speaking in Tech Conferences/Tech Meetups.
+👋 Available for: Full-time Frontend/React Developer role, anchoring in Tech Conferences and speaking in Tech Conferences/Tech Meetups.
 
 ### Available on:
 
