@@ -2,13 +2,13 @@ Kritika Srivastava
 
 ## Hi, I am a ReactJS/Frontend Developer 👩‍💻
 
-🔭 I am open for a full-time React Developer job. Currently,I am working as a full-time React Developer in GlobalLogic.With expertise in React, I am working in MERN stack & TypeScript.
+🔭 I am working as a full-time React Developer in GlobalLogic.With expertise in React, I am working in MERN stack & TypeScript.
 
 🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are Nextjs, Scuba Diving and driving a car.🙂
 
 👯 I like to write Tech Blog on DEV,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together.
 
-⚡ Fun fact: I like to sketch, write poems and try new hobbies in my leisure hour.These days I am learning German from Goethe-Institut / Max Mueller Bhavan Bangalore.
+⚡ Fun fact: I like to sketch, write poems and try new hobbies in my leisure hour.I am also pursuing German language Certification from Goethe-Institut / Max Mueller Bhavan Bangalore.
 
 👋 Available For: Full-time Frontend/React Developer role, Anchoring in Tech Conferences and Speaking in Tech Conferences/Tech Meetups.
 
