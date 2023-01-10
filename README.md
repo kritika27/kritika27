@@ -2,7 +2,7 @@ Kritika Srivastava
 
 ## Hi, I am a ReactJS/Frontend Developer 👩‍💻
 
-🔭 I am working as a full-time React Developer in GlobalLogic.With expertise in React, I am working in MERN stack & TypeScript.
+🔭 I am working as a full-time React/Frontend Developer in GlobalLogic.With expertise in React, I am working in MERN stack & TypeScript.
 
 🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are Nextjs, Scuba Diving and driving a car.🙂
 
@@ -77,6 +77,7 @@ Kritika Srivastava
 ### 2023 Events/Conferences:
 
 - JSConf India 2023
+- React Nexus India 2023
   <br/>
 
 
