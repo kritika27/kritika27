@@ -1,8 +1,9 @@
 Kritika Srivastava
 
-## Hi, I am a ReactJS/Frontend Developer 👩‍💻
+## Hi, I am a React/Frontend Developer 👩‍💻
 
 🔭 Highlights: Currently I am working as a full-time React/Frontend Developer in GlobalLogic.I am using Styled Components,React/Redux,StoryBook,Git,Gitlab in Frontend and having a separate team for Backend using Golang.Previously I have worked in MERN Stack & TypeScript.
+
 I am also pursuing German language Certification from Goethe-Institut / Max Mueller Bhavan Bangalore.
 
 🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems. Other skills on my bucket list for coming months are Nextjs and Scuba Diving.🙂
