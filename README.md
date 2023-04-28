@@ -5,7 +5,7 @@ Kritika Srivastava
 🔭 Highlights: Currently I am working as a full-time React/Frontend Developer in GlobalLogic.I am using Styled Components,React/Redux,StoryBook,Material UI,Git,Gitlab in Frontend and having a separate team for Backend using Golang.Previously I have worked in MERN Stack & TypeScript.
 
 
-🌱 Extras: I am also pursuing German language Certification from Goethe-Institut / Max Mueller Bhavan Bangalore.
+🌱 Extras: I am also pursuing B1 level German language Certification from Goethe-Institut Bangalore.I have completed A1 & A2 level German courses successfully from Goethe.
 
 👯 I like to write Tech Blog on DEV,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies and pacify my curiosity about Computers.If you want to discuss something over programming, let's grab a cup of Coffee together.
 
