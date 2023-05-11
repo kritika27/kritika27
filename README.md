@@ -6,9 +6,9 @@ Kritika Srivastava
 
 🌱 Extras: I am also pursuing B1 level German language Certification from Goethe-Institut Bangalore. I have completed A1 & A2 level German courses successfully from Goethe.
 
-👯 I like to write Tech Blog on DEV,post about ReactJS on Twitter based on my learning and experiences. I am always open to learn new Technologies. If you want to discuss something over programming, let's grab a cup of Coffee together.
+👯 I like to write about programming on my Tech Blog & Twitter, go to Meet-ups & Conferences to meet like minded people. In my free time I am also mentoring beginners in Frontend Development.
 
-⚡ Fun fact: I am a huge writing enthusiast. I am open to part-time/Freelance Content or Technical Writing. Started my first Blog in 2011 even before AI & Vlogs became the trend. Pursuing content-writing since school time.
+⚡ Fun fact: I am a huge writing enthusiast. I like to write Tech Blogs and travel blogs. Started my first Blog in 2011 even before AI & Vlogs became the trend. Pursuing content-writing since school time.
 ### Available on:
 
 <a href="https://dev.to/kritika27"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
