@@ -1,6 +1,6 @@
-Kritika Srivastava
+# Kritika Srivastava
 
-## Hi, I am a React/Frontend Developer 👩‍💻
+##  Hi, I am a React/Frontend Developer 👩‍💻
 
 🔭 Highlights: Currently I am working as a full-time React/Frontend Developer. I am using Styled Components,React/Redux,TypeScript,StoryBook,Material UI5,Git,Gitlab,Figma & Jenkins.
 
