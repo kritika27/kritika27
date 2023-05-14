@@ -6,9 +6,9 @@ Kritika Srivastava
 
 🌱 Extras: I am also pursuing B1 level German language Certification from Goethe-Institut Bangalore. I have completed A1 & A2 level German courses successfully from Goethe.
 
-👯 I like to write about programming on my Tech Blog & Twitter, go to Meet-ups & Conferences to meet like minded people. In my leisure hours, I mentor beginners in Frontend Development.
+👯 I like to write about programming on my Tech Blog & Twitter, go to Meet-ups & Conferences to meet like minded people. In my leisure hours, you will find me mentoring beginners in Frontend Development.
 
-⚡ Fun fact: I am a huge writing enthusiast. I like to write Tech Blogs, Travel Blogs and read Self-help books. Started my first Blog in 2011 even before AI & Vlogs became the trend. Pursuing content-writing since school time.
+⚡ Fun fact: I am a huge writing enthusiast. I like to write Tech Blogs, Travel Blogs and also read self-help books. Started my first Blog in 2011 even before AI & Vlogs became the trend. Pursuing content-writing since school time.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
