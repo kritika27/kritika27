@@ -2,7 +2,7 @@
 
 ##  Hi, I am a React/Frontend Developer 👩‍💻
 
-🔭 Highlights: Currently I am working as a full-time <strong>React/Frontend Developer</strong>. I am using Styled Components,React/Redux,TypeScript,StoryBook,CSS,Material UI5,Git,Gitlab,Figma & Jenkins.Apart from the above skills, I also like to create applications using Tailwind CSS, NextJS 13, Nodejs, SASS, MongoDB.
+🔭 Highlights: Currently I am working as a full-time <strong>React/Frontend Developer</strong>. I am using Styled Components, React/Redux, TypeScript, StoryBook, CSS, Material UI5, Git, Gitlab, Figma & Jenkins.Apart from the above skills, I like to create applications using Tailwind CSS, NextJS 13, Nodejs, SASS and MongoDB too.
 
 🌱 Extras: I am also pursuing B1 level <strong>German language</strong> Certification from Goethe-Institut Bangalore. I have completed A1 & A2 level German courses successfully from Goethe.
 
