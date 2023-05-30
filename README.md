@@ -2,13 +2,13 @@
 
 ##  Hi, I am a React/Frontend Developer 👩‍💻
 
-🔭 Highlights: Currently I am working as a full-time <strong>React/Frontend Developer</strong>. I am using Styled Components,React/Redux,TypeScript,StoryBook,Material UI5,Git,Gitlab,Figma & Jenkins.
+🔭 Highlights: Currently I am working as a full-time <strong>React/Frontend Developer</strong>. I am using Styled Components,React/Redux,TypeScript,StoryBook,CSS,Material UI5,Git,Gitlab,Figma & Jenkins.Apart from the above skills, I also like to create applications using Tailwind CSS, NextJS 13, Nodejs, SASS, MongoDB.
 
 🌱 Extras: I am also pursuing B1 level <strong>German language</strong> Certification from Goethe-Institut Bangalore. I have completed A1 & A2 level German courses successfully from Goethe.
 
-👯 I like to write about programming on my <strong>Tech Blog</strong> & Twitter, attend<strong>Meet-ups & Conferences</strong> & meet like minded people. In my leisure hours, you will find me <strong>mentoring</strong> beginners in Frontend Development.
+👯 I like to write about programming on my <strong>Tech Blog</strong> & Twitter, attend <strong>Meet-ups & Conferences</strong> & meet like minded people. In my leisure hours, you will find me <strong>mentoring</strong> beginners in Frontend Development.
 
-⚡ Fun fact: I am a huge <strong>writing enthusiast</strong>. I like to write Tech Blogs, Travel Blogs and read self-help books.Started my first Blog in 2011 even before AI & Vlogs became the trend. Pursuing content-writing since school time. Creating websites and writing my own content on it is my another hobby.😉
+⚡ Fun fact: I am a huge <strong>writing enthusiast</strong>. I like to write Tech Blogs, Travel Blogs and read self-help books.Started my first Blog in 2011 even before when AI & Vlogs became the trend. Pursuing content-writing since school time. <strong>Creating websites</strong> and writing my own content on it is my another hobby.😉
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
