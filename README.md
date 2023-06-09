@@ -1,4 +1,4 @@
-# Kritika Srivastava
+# <strong>Kritika Srivastava</strong>
 
 ##  Hi, I am a React/Frontend Developer 👩‍💻
 
@@ -54,13 +54,14 @@
 ## Events/Conference Updates:
 
 - Active member of React Bangalore Meetup.
-- Recently got an opportunity to be a part of React India Goa, India.
+- Got an opportunity to be a part of React India Goa in September 2022.
   <br/>
 
 ## 2023 Events/Conferences:
 
 - JSConf India 2023
-- React Nexus India 2023
+- React Nexus India 2023: See you on 7th July in Bangalore.
+- React Berlin 2023
   <br/>
 
 
