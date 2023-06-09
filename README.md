@@ -60,7 +60,7 @@
 ## 2023 Events/Conferences:
 
 - JSConf India 2023
-- React Nexus India 2023: See you on 7th July in Bangalore.
+- React Nexus India 2023: See you on 7th July in Bangalore.👋
 - React Berlin 2023
   <br/>
 
