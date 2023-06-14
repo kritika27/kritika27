@@ -6,7 +6,7 @@
 
 🌱 Extras: I am also pursuing B1 level <strong>German language</strong> Certification from Goethe-Institute Bangalore. I have completed A1 & A2 level German courses successfully from Goethe.
 
-👯 I like to write about programming on my <strong>Tech Blog(DEV)</strong> & Twitter, attend <strong>Meet-ups & Conferences</strong> & meet like minded people. In my leisure hours, you will find me <strong>mentoring/teaching</strong>few beginners in Frontend Development.
+👯 I like to write about programming on my <strong>Tech Blog(DEV)</strong> & Twitter, attend <strong>Meet-ups & Conferences</strong> & meet like minded people. In my leisure hours, you will find me <strong>mentoring/teaching</strong> few beginners in Frontend Development.
 
 ⚡ Fun fact: I am a huge <strong>writing enthusiast</strong>. I like to write Tech Blogs, Travel Blogs and read self-help books.Started my first Blog in 2011 even before when AI & Vlogs became the trend. Pursuing content-writing since school time. <strong>Creating websites</strong> and writing my own content on it is my another hobby.😉
 
